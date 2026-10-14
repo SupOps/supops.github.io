@@ -1,6 +1,6 @@
 # supops.github.io
 
-The website for [SupOps](https://github.com/Ayyush-Maheshwari/SupOps), open-source AIOps that asks first.
+The website for [SupOps](https://github.com/SupOps/SupOps), open-source AIOps that asks first.
 Live at **https://supops.github.io**.
 
 Plain HTML, CSS and a little JavaScript: no build step, no dependencies, no tracking.
